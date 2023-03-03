@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Updated ckontents
 #!/bin/bash echo "School"
+=======
+#!/bin/bash echo "The Shool is open"
+>>>>>>> update_script
